@@ -161,5 +161,4 @@ public class APIManager : MonoBehaviour
     }
     
     
-    //https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?key=
 }
